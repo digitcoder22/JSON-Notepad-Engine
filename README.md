@@ -1,6 +1,7 @@
 ## Basic Clicker Template (Python)
 This is a very simple Python clicker game template. I made it so that anyone can use this template and edit it to their own needs.
 It should help beginners understand how tkinter, actions, and functions work.
+
 ## Features
 - Multiline text editor
 - Easy to edit template
