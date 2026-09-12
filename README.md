@@ -8,7 +8,7 @@ It should help beginners understand how tkinter, actions, and functions work.
 - Lightweight
 
 ## How to run the template
-1. Clone the repo by opening Command Prompt or any other terminal and typing `git clone https://github.com/digitcoder22/Python-Basic-Clicker.git`
+1. Clone the repo by opening Command Prompt or any other terminal and typing `https://github.com/digitcoder22/JSON-Notepad-Engine.git`
 2. Open any IDE with Python support (I use VS Codium)
 3. Run the script.
 
