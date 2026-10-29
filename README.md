@@ -1,6 +1,6 @@
-## Basic Clicker Template (Python)
-This is a very simple Python clicker game template. I made it so that anyone can use this template and edit it to their own needs.
-It should help beginners understand how tkinter, actions, and functions work.
+## JSON Notepad Engine (Python)
+This is a notepad engine that is written in Python but also uses JSON.
+It should help beginners on how python and json work together and how JSON formatting works.
 
 ## Features
 - Multiline text editor
